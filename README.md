@@ -8,7 +8,7 @@ There are som sample pixel-sorted images in the Samples folder.
 
 How to run
 ============
-	java Runner *file* [--top] [--right] [--bottom] [--left] [--seed]
+> java Runner *file* [--top] [--right] [--bottom] [--left] [--seed]
 
 - **--top**, **--right**, **--bottom**, **--left** Sort from top-down, right-to-left, bottom-up, or left-to-right. Will overwrite each other. Defaults to *--bottom*.
 - **--seed** Sets the seed on the random number using a timestamp
