@@ -2,7 +2,7 @@ pixel-sorting
 ============
 Sorts the pixels in an image in an (hopefully) aesthetically-pleasing way.
 
-The program takes in a source image file and outputs the pixel-sorted image into a folder labelled "PSResults<X>" where <X> is a timestamp.
+The program takes in a source image file and outputs the pixel-sorted image into a folder named "PSResultsXX" where *XX* is a timestamp.
 
 There are some sample pixel-sorted images in the Samples folder.
 
